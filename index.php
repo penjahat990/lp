@@ -111,7 +111,7 @@ window._MEMBER_AFFILIATE_PNV_APPS_WEB_VIEW = '?appsWebview=true'</script>
 <meta name="robots" content="index, follow, max-image-preview:large">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="google-site-verification" content="6uucc5Xh5Lfb5Jx-_-ZLQ98NnabP-GV4syk5ZhRtR70" />
+<meta name="google-site-verification" content="ew8CcbjF0s-x7RW4EW1G5cnpEeGwlLRDPjI5Ym9zG-k" />
 <meta http-equiv="origin-trial" content="AllxSN0BrDmI9f9koUyx9fcVvuJ1gJDgZwqVVrYfgGuioD1brzdJ+xc37gw5OAznh+/Ump5CV1FtoKjtoMiKKQsAAABneyJvcmlnaW4iOiJodHRwczovL3d3dy5ibGlibGkuY29tOjQ0MyIsImZlYXR1cmUiOiJDb250ZW50SW5kZXgiLCJleHBpcnkiOjE1OTQxNjYzOTksImlzU3ViZG9tYWluIjp0cnVlfQ==">
 <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,maximum-scale=2">
 <link rel="manifest" href="/sw/manifest.json">
